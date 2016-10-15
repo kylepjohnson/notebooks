@@ -1,3 +1,13 @@
+# This script is the same as 3.1 but uses tfidf instead and creates bigram bag of words
+#
+#
+#
+# feature table saved at:
+# ~/cltk_data/user_data/tlg_bow.csv  # 662MB
+# model at:
+# ~/cltk_data/user_data/tlg_bow_df_tfidf_vectorizer_features100000_ngrams2.pickle  # 2.3GB
+
+
 
 # coding: utf-8
 
