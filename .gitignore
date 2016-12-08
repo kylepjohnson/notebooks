@@ -1,3 +1,4 @@
+venv
 _local
 .ipynb_checkpoints/
 *.html
